@@ -238,7 +238,7 @@ Open in Google Colab:
 Repository link:
 
 ```bash
-(Add your GitHub repository link here)
+([Add your GitHub repository link here](https://colab.research.google.com/drive/129_lbR6iiYDh1rIbYarmeaeLUuPDgIUo?usp=sharing))
 ```
 
 ---
