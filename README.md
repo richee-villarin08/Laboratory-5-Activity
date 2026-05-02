@@ -1,4 +1,4 @@
-# 📚 Lab 5: Comparative Analysis of Pre-trained CNN Models
+# 📚 Laboratory 5: Comparative Analysis of Pre-trained CNN Models
 
 ---
 
