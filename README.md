@@ -190,9 +190,9 @@ Open in Google Colab:
 
 ---
 [#Model Name Keras](https://drive.google.com/file/d/1aF_ren0qXgia4_daFUm2JD_-P2VhT9R1/view?usp=drive_link).
-[#Pre Traine model 1](https://drive.google.com/drive/folders/12nhugZOMjZGGsqX3l5koE8U5FuryVmSA?usp=sharing).
-[#Pre Traine model 2](https://drive.google.com/drive/folders/1jkHpz7M4owx0kzlCp-aQHPGJZTOLSesu?usp=sharing).
-[#Pre Traine model 3](https://drive.google.com/drive/folders/1j8wn_FwBHJQeKAXHc7QMk0vmbnLsmWXd?usp=sharing).
+[#Pre Traine model 1](https://drive.google.com/file/d/1XvqMs3w11CL5WIyP1WEQw_AzbdJf57Im/view?usp=drive_link).
+[#Pre Traine model 2](https://drive.google.com/file/d/1VAxIuwqFls3ZS1pawaEMvuDMH1LBlFJb/view?usp=drive_link).
+[#Pre Traine model 3](https://drive.google.com/file/d/18-uAlf3ovgFK4p4QdVwkTRPz1894Z2LR/view?usp=drive_link).
 ## Authors
 
 Name: Richee G. Villarin 
